@@ -1,0 +1,8 @@
+﻿  ExStatusError.cpp
+  Request.cpp
+C:\Users\itayr\OneDrive\Desktop\degree\second year\computer_communication\Ex3\TCPserver\TCPserver\Request.cpp(17,22): warning C4101: 'ex': unreferenced local variable
+  Response.cpp
+  main.cpp
+C:\Users\itayr\OneDrive\Desktop\degree\second year\computer_communication\Ex3\TCPserver\TCPserver\main.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  TCPserver.vcxproj -> C:\Users\itayr\OneDrive\Desktop\degree\second year\computer_communication\Ex3\TCPserver\x64\Debug\TCPserver.exe
